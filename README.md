@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jdolivet/MOOC-Python3-INRIA.git/master)
+
 # MOOC-Python
 
 Il s'agit du MOOC de la palteforme FUN consacré à Python.
