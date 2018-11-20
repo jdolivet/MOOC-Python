@@ -3,3 +3,5 @@ ipythontutor
 matplotlib
 pandas
 seaborn
+bokeh
+ipywidgets
