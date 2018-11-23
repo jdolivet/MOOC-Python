@@ -1,7 +1,7 @@
 numpy
-ipythontutor
-matplotlib
 pandas
+matplotlib
 seaborn
 bokeh
 ipywidgets
+ipythontutor

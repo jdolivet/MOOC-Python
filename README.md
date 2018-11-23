@@ -1,15 +1,7 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jdolivet/MOOC-Python3-INRIA.git/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jdolivet/MOOC-Python3-INRIA.git/master/index.ipynb)
 
 # MOOC-Python
 
-Il s'agit du MOOC de la palteforme FUN consacré à Python.
+L'objectif de ce projet est de permettre aux étudiants de Terminales (enseignement Informatique et Sciences du Numérique et Mathématiques) de profiter du travail réalisé dans le cadre du MOOC de la palteforme FUN consacré à Python.
 
-MOOC développé pour l'INRIA par Thierry Parmentelat et Arnaud Legout.
-
-Je fais des tests.
-
-Cette fois depuis un autre poste.
-
-Et là depuis github
-
-https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/about
+Ce [cours](https://www.fun-mooc.fr/courses/course-v1:UCA+107001+session02/about) a été développé pour l'INRIA et l'UCA par Thierry Parmentelat et Arnaud Legout.
